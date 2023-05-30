@@ -1,8 +1,9 @@
 import 'package:electronic_shop_app/app.dart';
-import 'package:flutter/cupertino.dart';
+import 'package:flutter/material.dart';
+import 'package:flutter/services.dart';
 
 void main() {
-  return runApp(const ShopApp());
+  runApp(const ShopApp());
 }
 
 /// 1. App create: domain, online
