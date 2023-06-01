@@ -8,4 +8,5 @@ abstract class CustomImages {
   static const headphoneThree = AssetImage("assets/images/img_headphone3.png");
   static const headphoneFour = AssetImage("assets/images/img_headphone4.png");
   static const headphoneFive = AssetImage("assets/images/img_headphone5.png");
+  static const headphone = AssetImage("assets/images/img_headphone.png");
 }

@@ -14,3 +14,5 @@ void main() {
 /// 6. create folder for app structures: mvc
 /// 7. models
 /// 8. constants integrate for assets
+
+

@@ -10,5 +10,12 @@ class Strings {
   static const category = "Category";
   static const interest = "Interest";
   static const profile = "Profile";
+  static const headphone = "Headphone";
+  static const mobile = "Mobile";
+  static const mouse = "Mouse & Keyboard";
+  static const monitor = "Computer";
+  static const clock = "Smart Watch";
+  static const camera = "Camera";
+  static const microphone = "Microphone";
 
 }
